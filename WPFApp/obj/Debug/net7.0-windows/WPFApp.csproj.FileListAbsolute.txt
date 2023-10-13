@@ -1,0 +1,5 @@
+C:\Users\Mashita Dewi\source\repos\WPFApp\obj\Debug\net7.0-windows\WPFApp.csproj.AssemblyReference.cache
+C:\Users\Mashita Dewi\source\repos\WPFApp\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Mashita Dewi\source\repos\WPFApp\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Mashita Dewi\source\repos\WPFApp\obj\Debug\net7.0-windows\WPFApp_MarkupCompile.cache
+C:\Users\Mashita Dewi\source\repos\WPFApp\obj\Debug\net7.0-windows\WPFApp_MarkupCompile.lref
